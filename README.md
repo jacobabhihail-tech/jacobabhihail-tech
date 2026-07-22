@@ -50,7 +50,6 @@
 
 # 🚀 Featured Projects
 
----
 
 ## 🏠 Advanced House Price Prediction | End-to-End Regression Pipeline
 
