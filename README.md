@@ -50,6 +50,7 @@
 
 # 🚀 Featured Projects
 
+---
 
 ## 🏠 Advanced House Price Prediction | End-to-End Regression Pipeline
 
@@ -67,7 +68,7 @@
 - Performed comprehensive data preprocessing including missing value imputation, categorical encoding, feature scaling, and train-test splitting to improve model reliability. 
 - Generated actionable business insights to support property valuation, pricing strategies, and data-driven decision-making for real estate and financial applications.
 
-
+---
 
 ## 📉  Advanced Customer Churn Prediction | End-to-End Classification Pipeline
 👉 https://github.com/jacobabhihail-tech/Advanced_customer_churn
@@ -83,6 +84,7 @@
 - Applied Feature Importance, Permutation Importance, and SHAP Explainable AI (Summary, Bar, and Waterfall plots) to interpret model predictions and identify key churn drivers. 
 - Generated actionable business insights and customer retention recommendations through data visualization, model explainability, and feature analysis.
 
+---
 
 ### 🔥 GenAI RAG Assistant
 👉 https://github.com/jacobabhihail-tech/genai-rag-assistant  
